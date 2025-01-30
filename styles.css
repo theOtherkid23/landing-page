@@ -1,16 +1,28 @@
+html{
+    background-color: black;
+    font-family:"Roboto" sans-serif;
+    margin:0;
+    padding:0;
+}
+
 .top{
     background-color: #1f2937;
 }
+
 img{
-    width:30em;
+    width:750px;
     height:auto;
 }
 h3{
     text-align: left;
-    font-size:25px;
+    font-size:24px;
+    color: #F9FaF8;
+    margin-left: 15px;
 }
 .links{
     display: flex;
+    font-size: 18px;
+    color: #e5e7eb;
 }
 .links div{
     text-align: center;
@@ -30,9 +42,27 @@ h3{
     flex-grow: .08;
 }
 h1{
-    font-size:40px;
+    font-size:48px;
+    color: white;
 }
 .picture {
     text-align: right;
     margin-right: 15em;
+}
+#subtext{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.twia{
+    margin-left: 15px;
+}
+button{
+    background-color:#3882f6;
+    color: white;
+}
+.hero-text{
+    margin-left:100px;
+    display:flex;
+    flex-direction:column;
+    max-width:400px;
 }
