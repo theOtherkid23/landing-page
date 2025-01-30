@@ -1,0 +1,38 @@
+.top{
+    background-color: #1f2937;
+}
+img{
+    width:30em;
+    height:auto;
+}
+h3{
+    text-align: left;
+    font-size:25px;
+}
+.links{
+    display: flex;
+}
+.links div{
+    text-align: center;
+    margin-bottom: 10px;
+    
+}
+.logo{
+    flex-grow: 1; 
+}
+.link1{
+    flex-grow: .08;
+}
+.link2{
+    flex-grow: .08;
+}
+.link3{
+    flex-grow: .08;
+}
+h1{
+    font-size:40px;
+}
+.picture {
+    text-align: right;
+    margin-right: 15em;
+}
