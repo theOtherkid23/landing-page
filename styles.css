@@ -97,3 +97,21 @@ a:hover{
     color:#1f2937;
     weight:900;
 }
+.lower{
+    background-color:#e5e7eb;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.quote{
+    font-size: 36px;
+    font-style: italic; 
+    color: #152937;
+    padding-top: 20px;
+}
+.sig{
+    font-size: 24px;
+    padding-bottom: 1px;
+}
